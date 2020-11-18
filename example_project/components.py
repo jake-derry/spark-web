@@ -1,0 +1,6 @@
+
+DATABASE = None
+
+COMPONENTS = [
+    DATABASE
+]
